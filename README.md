@@ -18,7 +18,7 @@ R Markdown: Para la documentación y generación de informes.
 GitHub: Para el control de versiones y colaboración.
 
 Instalación y Uso
-Clonar el repositorio: git clone https://github.com/TuNombre/HepatitisCAnalysis.git
+Clonar el repositorio: git clone https://github.com/jorgeballesta/HepatitisCAnalysis.git
 
 Instalar dependencias: install.packages(c("ggplot2", "dplyr", "MASS", "smotefamily"))
 
