@@ -24,8 +24,5 @@ Instalar dependencias: install.packages(c("ggplot2", "dplyr", "MASS", "smotefami
 
 Ejecutar el análisis: Abrir y ejecutar el archivo .Rmd en RStudio.
 
-Resultados
-El proyecto ha demostrado que la Regresión Logística es una herramienta efectiva para clasificar pacientes con hepatitis C, con una alta sensibilidad y especificidad. Los resultados pueden ser útiles para mejorar la detección temprana y el tratamiento de la enfermedad.
-
 Contribuciones
 Se agradece cualquier contribución al proyecto. Para más información sobre cómo contribuir, por favor revisa nuestra guía de contribuciones.
