@@ -25,4 +25,4 @@ Instalar dependencias: install.packages(c("ggplot2", "dplyr", "MASS", "smotefami
 Ejecutar el análisis: Abrir y ejecutar el archivo .Rmd en RStudio.
 
 Contribuciones
-Se agradece cualquier contribución al proyecto. Para más información sobre cómo contribuir, por favor revisa nuestra guía de contribuciones.
+Se agradece cualquier contribución al proyecto.
